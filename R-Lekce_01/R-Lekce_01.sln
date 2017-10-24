@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "R-Lekce_01", "R-Lekce_01.rxproj", "{F3607219-8DE4-43C6-873D-6676BC0D4F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3607219-8DE4-43C6-873D-6676BC0D4F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3607219-8DE4-43C6-873D-6676BC0D4F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3607219-8DE4-43C6-873D-6676BC0D4F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3607219-8DE4-43C6-873D-6676BC0D4F27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {141564D5-1D7C-4A80-8E3B-02116426CC16}
+	EndGlobalSection
+EndGlobal
