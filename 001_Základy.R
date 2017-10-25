@@ -1,7 +1,7 @@
 
 
 
-
+#Adding new commit for testing
 
 #F5 Sestavení celého projektu
 #CTRL+Enter - Proede øádek na kterém se nachází kurzor
@@ -30,7 +30,7 @@
 
 
 
-
+loremipsum dolor sit amet
 
 
 
