@@ -6,7 +6,7 @@
 #F5 Sestavení celého projektu
 #CTRL+Enter - Proede øádek na kterém se nachází kurzor
 
-
+#sèítání 
 12 + 13
 
 
