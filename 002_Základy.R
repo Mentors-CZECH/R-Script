@@ -32,6 +32,11 @@ retDate
 write.csv(retDate, "Data/Output.csv")
 
 
+
+library("rjson")
+
+result <- fromJSON(file = "appsettings.Developement.json")
+
 ###############################################
 ##  SQL Server
 ###############################################

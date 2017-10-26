@@ -1,6 +1,10 @@
 #F5 Sestavení celého projektu
 #CTRL+Enter - Proede øádek na kterém se nachází kurzor
 
+print("Hello world!")
+install.packages("dplyr")
+
+
 #Sèítání hodnot
 12 + 13
 #Odèítání hodnot
