@@ -1,43 +1,22 @@
-
-
-
-#Adding new commit for testing
-
 #F5 Sestavení celého projektu
 #CTRL+Enter - Proede øádek na kterém se nachází kurzor
 
-#sèítání 
+#Sèítání hodnot
 12 + 13
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-loremipsum dolor sit amet
-
-
-
+#Odèítání hodnot
+12-23
+#Násobení hodnot
+12*59
+#Dìlení hodnot
+15/3.5
+#Mocniny
+2^3
+#Modulo
+12%%6
 
 #Pøiøazení hodnoty k promìnné
 myVariable <- 13.5
-a
+
 ### ELEMENTY ###
 
 #class umožní urèit typ elementu
