@@ -32,11 +32,6 @@ retDate
 write.csv(retDate, "Data/Output.csv")
 
 
-
-library("rjson")
-
-result <- fromJSON(file = "appsettings.Developement.json")
-
 ###############################################
 ##  SQL Server
 ###############################################
@@ -50,3 +45,5 @@ dbOpenConnection <- odbcDriverConnect('driver={SQL Server};server=DESKTOP-3L4O8T
 ##Nad databází je možné vytváøet klasické dotazy pomocí SQL
 result <- sqlQuery(dbOpenConnection, 'SELECT * FROM Users')
 print(result)
+
+
